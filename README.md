@@ -1,2 +1,2 @@
 # smoothies
-stores and retrieves smoothie recipes
+retrieves smoothie recipes from a structured text file and provides a cl command
